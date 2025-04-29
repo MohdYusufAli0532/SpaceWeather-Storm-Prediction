@@ -1,0 +1,32 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore the virtual environment
+.venv/
+env/
+venv/
+
+# Ignore Streamlit cache (if any)
+.streamlit/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+*.DS_Store
+Thumbs.db
+
+# Ignore logs and environment files
+*.log
+*.env
+
+# Ignore temporary/project-specific data
+*.tmp
+*.bak
+*.swp
+
+# Ignore model and data files if you want (optional)
+# *.pkl
+# *.csv
