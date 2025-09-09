@@ -27,7 +27,8 @@ The goal of this project is to provide early warnings to mitigate the impact of 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mohdyusufali0532/SpaceWeather_StormPredictor.git
+   git clone https://github.com/mohdyusufali0532/SpaceWeather-Storm-Prediction.git
+
    ```
 
 2. Navigate to the project directory:
@@ -65,4 +66,5 @@ To run the application locally, use the following command:
 ```bash
 streamlit run storm_app.py
 ```
+
 
